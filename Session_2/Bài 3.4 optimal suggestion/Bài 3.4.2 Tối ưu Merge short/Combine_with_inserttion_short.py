@@ -1,3 +1,4 @@
+#đây là nguồn gốc của chương trình Merge Sort
 def merge_short_hybrid(arr, low, high):
     if high - low < 10:
         insertion_sort(arr, low, high)
