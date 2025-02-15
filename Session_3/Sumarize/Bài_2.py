@@ -1,5 +1,5 @@
 
-#this is a program about history of robot operation
+#this is a program about a sensor that sends data to a print queue
 import random
 import collections
 import threading
