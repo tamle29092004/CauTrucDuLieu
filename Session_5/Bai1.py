@@ -1,3 +1,4 @@
+#đây là chương trình về tìm list max
 from collections import deque
 
 def max_sliding_window(num_list, k):

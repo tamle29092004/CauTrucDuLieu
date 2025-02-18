@@ -13,8 +13,8 @@ def count_chars(string):
     return char_count  # Trả về từ điển chứa số lần xuất hiện của từng ký tự.
 
 # Test cases
-string1 = "Happiness"
-string2 = "smiles"
+string1 = "TamLeNe"
+string2 = "LeVanTam"
 
 # In kết quả ra màn hình
 print(count_chars(string1))  # {'H': 1, 'a': 1, 'p': 2, 'i': 1, 'n': 1, 'e': 1, 's': 2}
